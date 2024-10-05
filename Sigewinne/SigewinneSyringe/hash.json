@@ -1,0 +1,101 @@
+[
+    {
+        "component_name": "",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "c972be60",
+        "position_vb": "d241e3e0",
+        "blend_vb": "65165cd6",
+        "texcoord_vb": "eacf7513",
+        "ib": "2ace41fc",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "Head"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "2b6cb6eb"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "426d9200"
+                ],
+                [
+                    "Shadow",
+                    ".dds",
+                    "3f80c562"
+                ]
+            ]
+        ],
+        "first_vs": "4d2a92ea68c64c42"
+    },
+    {
+        "component_name": "2",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "4217661b",
+        "position_vb": "dbae8d3c",
+        "blend_vb": "11080afc",
+        "texcoord_vb": "77a28cb1",
+        "ib": "1bbbb220",
+        "object_indexes": [
+            0,
+            9876
+        ],
+        "object_classifications": [
+            "Head",
+            "Body"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "f1925cff"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "e2c4c26d"
+                ],
+                [
+                    "MetalMap",
+                    ".dds",
+                    "b0e08915"
+                ],
+                [
+                    "ShadowRamp",
+                    ".jpg",
+                    "58d2635b"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "b42b835e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "4609b6e2"
+                ],
+                [
+                    "Shadow",
+                    ".dds",
+                    "c527d808"
+                ],
+                [
+                    "MetalMap",
+                    ".dds",
+                    "86277ab8"
+                ]
+            ]
+        ],
+        "first_vs": "b944892704572eee"
+    }
+]
