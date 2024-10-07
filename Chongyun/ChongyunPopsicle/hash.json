@@ -1,0 +1,70 @@
+[
+    {
+        "component_name": "",
+        "draw_vb": "71912cb2",
+        "position_vb": "71912cb2",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "1880d521",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "Head"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "22c3cbd6"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "cedaedb6"
+                ],
+                [
+                    "Shadow",
+                    ".dds",
+                    "1d5e5d18"
+                ]
+            ]
+        ],
+        "first_vs": "b944892704572eee"
+    },
+    {
+        "component_name": "2",
+        "draw_vb": "bb3a123d",
+        "position_vb": "bb3a123d",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "28efd219",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "Head"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "22c3cbd6"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "cedaedb6"
+                ],
+                [
+                    "Shadow",
+                    ".dds",
+                    "1d5e5d18"
+                ]
+            ]
+        ],
+        "first_vs": "b944892704572eee"
+    }
+]
