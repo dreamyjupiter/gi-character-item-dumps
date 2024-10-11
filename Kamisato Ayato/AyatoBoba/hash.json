@@ -1,0 +1,31 @@
+[
+    {
+        "component_name": "",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "9e3846a4",
+        "position_vb": "f9703dad",
+        "blend_vb": "ab02ae76",
+        "texcoord_vb": "e52a326a",
+        "ib": "595ba181",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "Head"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "32984b9b"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "17d31fe9"
+                ]
+            ]
+        ]
+    }
+]
