@@ -1,0 +1,26 @@
+[
+    {
+        "component_name": "",
+        "root_vs": "",
+        "draw_vb": "0cbbe037",
+        "position_vb": "0cbbe037",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "d0043aaa",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "Head"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "6a95d879"
+                ]
+            ]
+        ]
+    }
+]
