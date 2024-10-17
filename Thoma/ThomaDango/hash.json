@@ -1,0 +1,50 @@
+[
+    {
+        "component_name": "Food",
+        "root_vs": "4123d77c48627b98",
+        "draw_vb": "a334dbd8",
+        "position_vb": "4734da13",
+        "blend_vb": "4428217a",
+        "texcoord_vb": "80a846f8",
+        "ib": "febce72d",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "Head"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "cd64ae5d"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Stick",
+        "root_vs": "4123d77c48627b98",
+        "draw_vb": "70a593a0",
+        "position_vb": "ce801243",
+        "blend_vb": "5b91b8fa",
+        "texcoord_vb": "2b28772d",
+        "ib": "692e3480",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "Head"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "cd64ae5d"
+                ]
+            ]
+        ]
+    }
+]
