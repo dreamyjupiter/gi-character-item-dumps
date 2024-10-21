@@ -1,0 +1,55 @@
+[
+    {
+        "component_name": "Frame",
+        "root_vs": "4123d77c48627b98",
+        "draw_vb": "5cd31ad9",
+        "position_vb": "365ad13f",
+        "blend_vb": "72226fb7",
+        "texcoord_vb": "58e7f432",
+        "ib": "067f81c9",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "Head"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "d1ee538d"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "378ba187"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Veil",
+        "root_vs": "4123d77c48627b98",
+        "draw_vb": "7740f6c0",
+        "position_vb": "4abcf736",
+        "blend_vb": "6c2831fb",
+        "texcoord_vb": "4e76efeb",
+        "ib": "149359ef",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "Head"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "12925809"
+                ]
+            ]
+        ]
+    }
+]
