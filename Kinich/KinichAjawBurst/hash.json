@@ -1,0 +1,53 @@
+[
+    {
+        "component_name": "",
+        "root_vs": "",
+        "draw_vb": "620b67ef",
+        "position_vb": "620b67ef",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "aa4eb817",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "Head"
+        ],
+        "texture_hashes": [
+            []
+        ]
+    },
+    {
+        "component_name": "",
+        "root_vs": "4123d77c48627b98",
+        "draw_vb": "b6c77cd7",
+        "position_vb": "be98febf",
+        "blend_vb": "be9fe5e0",
+        "texcoord_vb": "fb4eaf98",
+        "ib": "7659e109",
+        "object_indexes": [
+            0,
+            1536
+        ],
+        "object_classifications": [
+            "Head",
+            "Body"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "efd65ff4"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "efd65ff4"
+                ]
+            ]
+        ]
+    }
+]
