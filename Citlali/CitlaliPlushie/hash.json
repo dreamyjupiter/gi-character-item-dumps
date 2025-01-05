@@ -1,0 +1,50 @@
+[
+    {
+        "component_name": "",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "e08a9976",
+        "position_vb": "dac913f5",
+        "blend_vb": "cd218683",
+        "texcoord_vb": "4b9868e8",
+        "ib": "481ea66a",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "Head"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "e20e449e"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Eyes",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "fbf6a372",
+        "position_vb": "a4ace68d",
+        "blend_vb": "cc981732",
+        "texcoord_vb": "0ef9ecc4",
+        "ib": "d82784ff",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "Head"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "e20e449e"
+                ]
+            ]
+        ]
+    }
+]
