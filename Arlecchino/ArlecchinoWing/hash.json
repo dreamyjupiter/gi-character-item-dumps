@@ -1,0 +1,44 @@
+[
+    {
+        "component_name": "",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "dc38be0c",
+        "position_vb": "e413d2fc",
+        "blend_vb": "d67b5b74",
+        "texcoord_vb": "93dfd7b0",
+        "ib": "ea806106",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "Head"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Shadow",
+                    ".dds",
+                    "4d42bd28"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "fea2bd55",
+        "position_vb": "528c23b9",
+        "blend_vb": "7557eadc",
+        "texcoord_vb": "43ad38bb",
+        "ib": "222bc9eb",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "Head"
+        ],
+        "texture_hashes": [
+            []
+        ]
+    }
+]
