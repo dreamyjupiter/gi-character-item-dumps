@@ -1,0 +1,60 @@
+[
+    {
+        "component_name": "",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "10979cf0",
+        "position_vb": "94b914f6",
+        "blend_vb": "48a71a71",
+        "texcoord_vb": "0da18a4c",
+        "ib": "e56553f2",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "Head"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "d2247509"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "09a68d6e"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Lid",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "4f765ec8",
+        "position_vb": "1f947b78",
+        "blend_vb": "fa5fa96a",
+        "texcoord_vb": "8237635c",
+        "ib": "c27201fc",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "Head"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "d2247509"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "09a68d6e"
+                ]
+            ]
+        ]
+    }
+]
