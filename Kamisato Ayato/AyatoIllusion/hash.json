@@ -1,0 +1,20 @@
+[
+    {
+        "component_name": "",
+        "root_vs": "",
+        "draw_vb": "3d813e9c",
+        "position_vb": "3d813e9c",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "8b319c6f",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "Head"
+        ],
+        "texture_hashes": [
+            []
+        ]
+    }
+]
